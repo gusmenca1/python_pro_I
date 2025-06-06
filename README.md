@@ -1,2 +1,4 @@
 # python_pro_I
-Gustavo hga hecho un cambio en el archivo readme
+Gustavo ha hecho un cambio en el archivo README
+
+Andres ha cambiado el archivo README
